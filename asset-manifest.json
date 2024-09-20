@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CiviLink/static/css/main.5fcc3a00.css",
-    "main.js": "/CiviLink/static/js/main.243c26c6.js",
-    "static/js/453.54223bac.chunk.js": "/CiviLink/static/js/453.54223bac.chunk.js",
-    "index.html": "/CiviLink/index.html",
-    "main.5fcc3a00.css.map": "/CiviLink/static/css/main.5fcc3a00.css.map",
-    "main.243c26c6.js.map": "/CiviLink/static/js/main.243c26c6.js.map",
-    "453.54223bac.chunk.js.map": "/CiviLink/static/js/453.54223bac.chunk.js.map"
+    "main.css": "/CiviLink/civilink/static/css/main.5fcc3a00.css",
+    "main.js": "/CiviLink/civilink/static/js/main.8b40f212.js",
+    "static/js/453.54223bac.chunk.js": "/CiviLink/civilink/static/js/453.54223bac.chunk.js",
+    "index.html": "/CiviLink/civilink/index.html",
+    "main.5fcc3a00.css.map": "/CiviLink/civilink/static/css/main.5fcc3a00.css.map",
+    "main.8b40f212.js.map": "/CiviLink/civilink/static/js/main.8b40f212.js.map",
+    "453.54223bac.chunk.js.map": "/CiviLink/civilink/static/js/453.54223bac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fcc3a00.css",
-    "static/js/main.243c26c6.js"
+    "static/js/main.8b40f212.js"
   ]
 }

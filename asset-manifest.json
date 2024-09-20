@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JoelJohny/CiviLink/civilink/static/css/main.5fcc3a00.css",
+    "main.js": "/JoelJohny/CiviLink/civilink/static/js/main.13816bdc.js",
+    "static/js/453.54223bac.chunk.js": "/JoelJohny/CiviLink/civilink/static/js/453.54223bac.chunk.js",
+    "index.html": "/JoelJohny/CiviLink/civilink/index.html",
+    "main.5fcc3a00.css.map": "/JoelJohny/CiviLink/civilink/static/css/main.5fcc3a00.css.map",
+    "main.13816bdc.js.map": "/JoelJohny/CiviLink/civilink/static/js/main.13816bdc.js.map",
+    "453.54223bac.chunk.js.map": "/JoelJohny/CiviLink/civilink/static/js/453.54223bac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcc3a00.css",
+    "static/js/main.13816bdc.js"
+  ]
+}

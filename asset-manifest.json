@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JoelJohny/CiviLink/civilink/static/css/main.5fcc3a00.css",
-    "main.js": "/JoelJohny/CiviLink/civilink/static/js/main.13816bdc.js",
-    "static/js/453.54223bac.chunk.js": "/JoelJohny/CiviLink/civilink/static/js/453.54223bac.chunk.js",
-    "index.html": "/JoelJohny/CiviLink/civilink/index.html",
-    "main.5fcc3a00.css.map": "/JoelJohny/CiviLink/civilink/static/css/main.5fcc3a00.css.map",
-    "main.13816bdc.js.map": "/JoelJohny/CiviLink/civilink/static/js/main.13816bdc.js.map",
-    "453.54223bac.chunk.js.map": "/JoelJohny/CiviLink/civilink/static/js/453.54223bac.chunk.js.map"
+    "main.css": "/CiviLink/civilink/static/css/main.5fcc3a00.css",
+    "main.js": "/CiviLink/civilink/static/js/main.8b40f212.js",
+    "static/js/453.54223bac.chunk.js": "/CiviLink/civilink/static/js/453.54223bac.chunk.js",
+    "index.html": "/CiviLink/civilink/index.html",
+    "main.5fcc3a00.css.map": "/CiviLink/civilink/static/css/main.5fcc3a00.css.map",
+    "main.8b40f212.js.map": "/CiviLink/civilink/static/js/main.8b40f212.js.map",
+    "453.54223bac.chunk.js.map": "/CiviLink/civilink/static/js/453.54223bac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fcc3a00.css",
-    "static/js/main.13816bdc.js"
+    "static/js/main.8b40f212.js"
   ]
 }
